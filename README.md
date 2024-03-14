@@ -2,6 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=30A3DC)](https://www.linkedin.com/in/jacqueline-ribeiro-743876247/)
 
+_A ferramenta de IA facilita o nosso dia a dia no quesito tempo. Seus insights serão mais assertivos e suas análises mais enriquecidas já que nos ajudará na produtividade._
+_Também nos induzirá a criatividade, trazendo novas ideias ao negócio e como podemos utilizar a ferramenta para trazer ganhos para as Empresas._
+
 ## Entre no Microsoft Copilot
 
 1. Abra o [copilot.microsoft.com](copilot.microsoft.com) e inicie sessão com a sua conta Microsoft pessoal.
