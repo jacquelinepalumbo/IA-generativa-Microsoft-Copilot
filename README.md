@@ -9,7 +9,7 @@
 3. Na parte inferior da tela, você verá uma janela **Pergunte-me qualquer coisa**. À medida que você insere prompts na janela, o Copilot usa todo o thread de conversa para retornar respostas. Por exemplo, vamos tentar fazer uma série de perguntas sobre viagens.
 
 ## Usar prompts para gerar respostas
-1. Digite um prompt: . Você verá um _Pesquisando por:... e Gerando..._ aparecer antes da resposta. O modelo utiliza as respostas pesquisadas como informações de embasamento para gerar respostas originais. Observe que o final da resposta contém links para suas fontes.´What are 3 pros and cons of traveling in the winter?´
+1. Digite um prompt: . Você verá um _Pesquisando por:... e Gerando..._ aparecer antes da resposta. O modelo utiliza as respostas pesquisadas como informações de embasamento para gerar respostas originais. Observe que o final da resposta contém links para suas fontes.`What are 3 pros and cons of traveling in the winter?`
 
 ![image](https://github.com/jacquelinepalumbo/IA-generativa-Microsoft-Copilot/assets/119548193/494226a7-6827-449c-9a21-dc6a6c38c56a)
 
