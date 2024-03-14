@@ -1,5 +1,7 @@
 # IA Generativa com Microsoft Copilot
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=30A3DC)](https://www.linkedin.com/in/jacqueline-ribeiro-743876247/)
+
 ## Entre no Microsoft Copilot
 
 1. Abra o [copilot.microsoft.com](copilot.microsoft.com) e inicie sessão com a sua conta Microsoft pessoal.
@@ -68,3 +70,9 @@
 2. Explain how Artificial Intelligence can help prevent oncological diseases
    ![image](https://github.com/jacquelinepalumbo/IA-generativa-Microsoft-Copilot/assets/119548193/b6f4ad1e-4608-49d7-b37d-937f104272af)
 
+# Referências:
+
+
+
+
+&nbsp;
