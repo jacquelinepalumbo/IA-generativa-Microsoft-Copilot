@@ -73,6 +73,6 @@
 # Referências:
 
 
-
+[Explore generative AI with Microsoft Copilot](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
 
 &nbsp;
